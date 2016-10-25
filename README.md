@@ -39,6 +39,6 @@ The following Stretch user stories are implemented:
 Here's a walkthrough of implemented user stories:
 ![Video Walkthrough](NyTimes.gif)
 
-# I could not show the Share functionality on the emulator. So took a video of Share functonality and uploaded it to *IMG_2096.MOV*.
+# I could not show the Share functionality on the emulator. So took a video of Share functonality and uploaded on github with name IMG_2096.MOV.
 
 
